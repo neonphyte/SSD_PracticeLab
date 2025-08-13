@@ -3,7 +3,7 @@
   "dependencies": {
     "chai-http": "^5.1.2",
     "express": "^5.1.0",
-    "selenium-webdriver": "^4.34.0",
+    "selenium-webdriver": "^4.35.0",
     "supertest": "^7.1.3"
   },
   "devDependencies": {
